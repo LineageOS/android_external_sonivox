@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ccbdc71_da38f7ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25691
+      },
+      "writtenOn": "2024-05-10T14:40:14Z",
+      "side": 1,
+      "message": "Builds for and runs on Moto G5 Cedric. THANK YOU!\nIs the code base diverging so much that most all \"old\" errors are fixed and new ones introduced only in later versions of Android?",
+      "revId": "3d934a327765cdcadc1453c2a5615a83d9162d6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
