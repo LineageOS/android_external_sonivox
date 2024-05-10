@@ -16,6 +16,24 @@
       "message": "Builds for and runs on Moto G5 Cedric. THANK YOU!\nIs the code base diverging so much that most all \"old\" errors are fixed and new ones introduced only in later versions of Android?",
       "revId": "3d934a327765cdcadc1453c2a5615a83d9162d6f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2997a3e3_18bd139f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12604
+      },
+      "writtenOn": "2024-05-10T18:32:02Z",
+      "side": 1,
+      "message": "Some of the CVE google posted this month were already applied from previous CVE releases a few months ago. Also, since google has diverged its code base, there are many instances that are not affected by the older code base.",
+      "parentUuid": "3ccbdc71_da38f7ec",
+      "revId": "3d934a327765cdcadc1453c2a5615a83d9162d6f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
