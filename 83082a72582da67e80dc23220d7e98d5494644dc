@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0701e462_99ae90cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27499
+      },
+      "writtenOn": "2025-11-04T22:28:40Z",
+      "side": 1,
+      "message": "repo pick error\n\nApplying change number 392209...\nERROR: For 392209, could not determine the project path for project LineageOS/android_external_sonivox",
+      "revId": "83082a72582da67e80dc23220d7e98d5494644dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
